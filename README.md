@@ -20,7 +20,7 @@ Deployed on AWS S3 + CloudFront (taken down after testing to avoid costs)
 ## Screenshots
 
 ### Live website (HTTPS)
-![Live site](screenshots/1-live-site.jpeg)
+![Live site](https://github.com/Aswinilokeshwaran/aws-s3-cloudfront-static-website/blob/3d5a6d298627b8a5509dafccf51546fc2aa2608d/1-live-site.png.jpeg)
 
 ### S3 bucket files
 ![S3 bucket](screenshots/2-s3-bucket.jpeg)

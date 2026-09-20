@@ -23,16 +23,17 @@ Deployed on AWS S3 + CloudFront (taken down after testing to avoid costs)
 ![Live site](https://github.com/Aswinilokeshwaran/aws-s3-cloudfront-static-website/blob/3d5a6d298627b8a5509dafccf51546fc2aa2608d/1-live-site.png.jpeg)
 
 ### S3 bucket files
-![S3 bucket](screenshots/2-s3-bucket.jpeg)
+![S3 bucket](https://github.com/Aswinilokeshwaran/aws-s3-cloudfront-static-website/blob/72ded8753efa7d7fa733a7d8b15e1040a69a6ff0/2-s3-bucket.png.jpeg)
+
 
 ### Block public access and bucket policy
-![Block public access](screenshots/3-block-public-access.jpeg)
+![Block public access](https://github.com/Aswinilokeshwaran/aws-s3-cloudfront-static-website/blob/72ded8753efa7d7fa733a7d8b15e1040a69a6ff0/3-block-public-access.png.jpeg)
 
 ### CloudFront distribution
-![CloudFront](screenshots/4-cloudfront-general.jpeg)
+![CloudFront](https://github.com/Aswinilokeshwaran/aws-s3-cloudfront-static-website/blob/72ded8753efa7d7fa733a7d8b15e1040a69a6ff0/4-cloudfront-general.png.jpeg)
 
 ### CloudFront origin (S3)
-![Origins](screenshots/5-cloudfront-origins.jpeg)
+![Origins](https://github.com/Aswinilokeshwaran/aws-s3-cloudfront-static-website/blob/72ded8753efa7d7fa733a7d8b15e1040a69a6ff0/5-cloudfront-origins.png.jpeg)
 
 ## What I learned
 - How to keep an S3 bucket private and serve it safely through CloudFront
